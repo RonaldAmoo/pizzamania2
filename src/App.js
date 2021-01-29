@@ -105,7 +105,7 @@ function App() {
         </div>
       </div>
 
-      <div className="container about-pizza">
+      <div className="container about-pizza gold">
         <div className="row">
           <h2 className="text-center">About Pizza</h2>
         </div>
